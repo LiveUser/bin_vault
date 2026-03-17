@@ -7,7 +7,7 @@ description = "A custom binary database."
 license = "GPL-3.0-or-later"
 license-file = "LICENSE"
 readme = "README.md"
-keywords = ["database", "custom", "binary","object", "high level"]
+keywords = ["database", "custom", "binary","object", "abstraction"]
 categories = ["filesystem"]
 repository = "https://github.com/LiveUser/bin_vault"
 
