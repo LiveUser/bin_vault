@@ -1,0 +1,17 @@
+[package]
+name = "bin_vault"
+version = "0.1.0"
+edition = "2024"
+authors = ["Radamés Jomuel Valentín Reyes"]
+description = "A custom binary database."
+license = "GPL-3.0-or-later"
+license-file = "LICENSE"
+readme = "README.md"
+keywords = ["database", "custom", "binary","object", "high level"]
+categories = ["filesystem"]
+repository = ""
+
+[dependencies]
+bincode = "1.3.3"
+dart_io = "0.1.1"
+power_plant = "0.1.0"
